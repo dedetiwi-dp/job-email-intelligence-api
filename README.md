@@ -22,12 +22,12 @@ An AI-powered FastAPI service that extracts structured information from recruite
 
 ## 📂 Project Structure
 
-![Project Structure](dokumen/AI%20Job%20Email%20Intelligence.png)
+![Project Structure](docs/AI%20Job%20Email%20Intelligence.png)
 
 ## 📸 Swagger API
 
-![Swagger](dokumen/SS%20Swagger.png)
+![Swagger](docs/SS%20Swagger.png)
 
 ## 📩 HTTP Response
 
-![HTTP Response](dokumen/SS%20Output%20HTTP%20Request.png)
+![HTTP Response](docs/SS%20Output%20HTTP%20Request.png)
