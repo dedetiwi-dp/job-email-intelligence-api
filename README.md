@@ -34,4 +34,4 @@ An AI-powered FastAPI service that extracts structured information from recruite
 
 ## 📝 Notion Database
 
-![Notion Database](docs/SS%20Notion%20Database.png)
+![Notion Database](docs/Notion%20App%20Tracker.png)
