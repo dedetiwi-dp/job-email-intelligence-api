@@ -31,3 +31,7 @@ An AI-powered FastAPI service that extracts structured information from recruite
 ## 📩 HTTP Response
 
 ![HTTP Response](docs/SS%20Output%20HTTP%20Request.png)
+
+## 📝 Notion Database
+
+![Notion Database](docs/SS%20Notion%20Database.png)
